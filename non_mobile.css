@@ -1,0 +1,121 @@
+/* these are alterations made by the mobile stylesheet that weren't made by either style or style_thin, have been removed from common so values must be added here */
+
+#intro{
+    position: fixed;
+    width:50%;
+    z-index: 100;
+}
+
+#about_description{
+    position: fixed;
+    width:50%;
+    z-index: 100;
+}
+
+#header{
+    /* nothing */
+}
+
+#logo{
+    display: block;
+}
+
+#left{
+    right:52%;
+    width:35%;
+    height:100%;
+}
+
+#right{
+    left:52%;
+    width:46%;
+    height:100%;
+}
+
+#search{
+    /* nothing*/
+}
+
+#content{
+    top:15%;
+    background-color: #262626;
+    z-index: 0;
+}
+
+#footer{
+    /* nothing */
+}
+
+.circle_button{
+    /*nothing*/
+}
+
+#external_links{
+    width:20%;
+}
+
+h1{
+    font-size: 1.75vw;
+    
+}
+
+h2{
+    font-size: 2.2vw;
+}
+
+h3{
+    font-size: 1.5vw;
+}
+
+h4{
+    font-size: 2.2vw;
+}
+
+#selection_display{
+    /* nothing */
+}
+
+#right_column{
+    display: block;
+}
+
+#left_column{
+    right:52%;
+    width:46%;
+    height:142vw;
+    /* top already set */
+    /*background-color: #BBBBBB;*/
+}
+
+.resource_box{
+    height:46vw;
+}
+
+#left_column_1{
+    top:0vw;
+}
+
+#left_column_2{
+    top:48vw;
+}
+
+#left_column_3{
+    top:96vw;
+}
+
+#standard_or_resource_type{
+    width:76%;
+}
+
+#level{
+    width:43%;
+}
+
+#subject{
+    width:54%;
+}
+
+.dropdown_content a {
+    padding: 4px 4px;
+}
+/* end mobile alteration */

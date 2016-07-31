@@ -1,0 +1,36 @@
+#header{
+    height: 10vw;
+}
+
+#logo{
+    width: 10vw;
+}
+
+#search{
+    width:10vw;
+}
+
+#selection_display{
+    height: 3.33333vw;
+}
+
+#content{
+    top:10vw;
+    height: calc(146vw + 3.333333vw + 5.33333vw);
+}
+
+#left_column{
+    top:5.33333vw;
+}
+
+#right_column{
+    top:5.33333vw;
+}
+
+#footer{
+    height: 5.33333vw;
+}
+
+.circle_button{
+    width: 4.27vw;
+}

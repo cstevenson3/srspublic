@@ -1,0 +1,164 @@
+/* These are altered by style and style_thin and have been removed from common, so they must be given values for mobile*/
+
+/* altered by mobile anyway
+
+#header{
+    height: 10vw;
+}
+
+end of altered by mobile anyway */ 
+
+#intro{
+    position: fixed;
+    width:96%;
+    z-index: 100;
+}
+
+#about_description{
+    position: fixed;
+    width:96%;
+    z-index: 100;
+}
+
+#logo{
+    width: 10vw;
+}
+
+#search{
+    width:10vw;
+}
+
+#selection_display{
+    height: 3.33333vw;
+}
+
+#content{
+    top:10vw;
+}
+
+#left_column{
+    top:5.33333vw;
+}
+
+#right_column{
+    top:5.33333vw;
+}
+
+#footer{
+    height: 5.33333vw;
+}
+
+.circle_button{
+    width: 4.27vw;
+}
+
+/* end style and style_thin alterations */
+
+
+/* these are unique to mobile */
+
+#header{
+    height: 20vh;
+}
+
+#logo{
+    display: none;
+}
+
+#left{
+    left:2%;
+    width:96%;
+    height:50%;
+}
+
+#level{
+    width:40%; /* 34.2 */
+}
+
+#subject{
+    width:58.2%;
+}
+
+#right{
+    bottom:0%;
+    left:2%;
+    width:96%;
+    height:50%;
+}
+
+#standard_or_resource_type{
+    width:76%;
+}
+
+#search{
+    width:10vh;
+}
+
+#content{
+    top:20%;
+    height: calc(296vw + 5vh + 10vh); /* 3 boxes and spacing + selection display + footer */
+}
+
+#footer{
+    height:10vh;
+}
+
+.circle_button{
+    width: 8vh;
+}
+
+#external_links{   
+    width:60%;
+}
+
+h1{
+    font-size: 2.3vh;
+    
+}
+
+h2{
+    font-size: 3vh;
+}
+
+h3{
+    font-size: 1.9vh;
+}
+
+h4{
+    font-size: 3vh;
+}
+
+#selection_display{
+    height:5vh;
+}
+
+#right_column{
+    display: none;
+}
+
+#left_column{
+    left:2%;
+    width:96%;
+    height:292vw;
+    top:calc(2vw + 5vh);
+}
+
+.resource_box{
+    height:96vw;
+}
+
+#left_column_1{
+    top:0vw;
+}
+
+#left_column_2{
+    top:98vw;
+}
+
+#left_column_3{
+    top:196vw;
+}
+
+.dropdown_content a {
+    padding: 20px 4px;
+}

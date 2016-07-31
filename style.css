@@ -1,0 +1,36 @@
+#header{
+    height: 15%;
+}
+
+#logo{
+    width: 15vh;
+}
+
+#search{
+    width:15vh;
+}
+
+#selection_display{
+    height: 5vh;
+}
+
+#content{
+    top:15vh;
+    height: calc(146vw + 13vh);
+}
+
+#left_column{
+    top:calc(2vw + 5vh);
+}
+
+#right_column{
+    top:calc(2vw + 5vh);
+}
+
+#footer{
+    height: 8%;
+}
+
+.circle_button{
+    width: 6.4vh;
+}
