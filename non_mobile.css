@@ -1,15 +1,11 @@
 /* these are alterations made by the mobile stylesheet that weren't made by either style or style_thin, have been removed from common so values must be added here */
 
 #intro{
-    position: fixed;
     width:50%;
-    z-index: 100;
 }
 
 #about_description{
-    position: fixed;
     width:50%;
-    z-index: 100;
 }
 
 #header{

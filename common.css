@@ -97,6 +97,16 @@ a:hover, a:visited, a:link, a:active
     text-decoration: none;
 }
 
+#intro{
+    position: fixed;
+    z-index:2;
+}
+
+#about_description{
+    position: fixed;
+    z-index:2;
+}
+
 .centered{
     position: absolute;
     left:50%;
@@ -354,6 +364,7 @@ a:hover, a:visited, a:link, a:active
     position: absolute;
     left:0%;
     width:100%;
+    background-color: #808080;
 }
 
 .table_title{

@@ -9,15 +9,11 @@
 end of altered by mobile anyway */ 
 
 #intro{
-    position: fixed;
     width:96%;
-    z-index: 100;
 }
 
 #about_description{
-    position: fixed;
     width:96%;
-    z-index: 100;
 }
 
 #logo{
