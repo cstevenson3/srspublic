@@ -88,6 +88,10 @@ a:link{
     color: inherit; 
 }
 
+a:visited{
+    color: inherit;
+}
+
 a:hover{
     color: #BBBBBB;
 }
@@ -356,6 +360,7 @@ a:hover, a:visited, a:link, a:active
 #content{
     position:absolute;
     width: 100%;
+    
     background-color: #262626;
     z-index: 0;
 }
