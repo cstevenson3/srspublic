@@ -1,4 +1,4 @@
 # srspublic
 SRS public
 
-The public hosting for testing of SRS
+The frontend HTML/CSS for a simplified viewer of NCEA resources
